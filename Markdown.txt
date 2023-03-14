@@ -1,0 +1,56 @@
+Códigos Markdown :
+https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf
+
+Citação = quotereply
+Cortado = ~~Curso~~
+Destacar = `Curso` ou ```Curso```
+Emoji = :thinking: ou :
+( githb.com.ikatyang procurar emoji )
+( emojipedia.org )
+Colocar emoji no título
+Itálico = *Curso* ou _Curso_ 
+Itálico + Negrito = __*Curso*__
+Linha embaixo = --- ou *** embaixo da Frase
+Marcar = @
+Negrito = **Curso** ou __Curso__
+Tabulação = 4 espaços
+Título = # Curso
+Título Nível 2 = ## Curso
+Título Nível 3 = ### Curso
+
+
+Link :
+
+[Decrição do Link](Link do HMTL)
+
+Lista Demarcada / Com marcadores : * ou -
+
+* Teste
+* Teste
+   * Teste
+* Teste
+
+Lista Numerada : 
+
+Subitem : 3 espaços na frente
+Ex : 
+1. Teste
+1. Teste
+   1. Teste
+   1. Teste
+1. Teste
+
+Lista Tarefas : Quadradinho na frente
+
+- [x] Criar página principal
+- [x] Criar página da Loja
+- [ ] Finalizar Reunião
+- [ ] Receber Pagamento
+
+Tabelas :
+
+Número | Nome | Nota
+---|---|---
+1 | Daniel | 10
+2 | Gustavo | 8
+3 | Raquel | 9,5
