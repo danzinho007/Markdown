@@ -1,6 +1,23 @@
+Alura
+https://www.alura.com.br/artigos/como-trabalhar-com-markdown
+Site 
+https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
 Códigos Markdown :
 https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf
+Guia Inglês :
+https://www.markdownguide.org/getting-started/
+Tecnoblog Matéria
+https://tecnoblog.net/responde/o-que-e-markdown/
+Wiki
+https://pt.wikipedia.org/wiki/Markdown
 
+O que é ? Linguagem de Marcação
+Pra que serve ? Usado para formatar arquivos Readme
+Qual a extensão ? .md 
+
+Alinhamento direita = exemplo:
+Alinhamento esquerda = :exemplo
+Centralizado = : exemplo :
 Citação = quotereply
 Cortado = ~~Curso~~
 Destacar = `Curso` ou ```Curso```
@@ -8,16 +25,23 @@ Emoji = :thinking: ou :
 ( githb.com.ikatyang procurar emoji )
 ( emojipedia.org )
 Colocar emoji no título
+Imagens = ![Alt ou título da imagem](URL da imagem)
 Itálico = *Curso* ou _Curso_ 
 Itálico + Negrito = __*Curso*__
 Linha embaixo = --- ou *** embaixo da Frase
+Link Direto = <https://exemplo.com/>
+Link Texto-Âncora = [exemplo](https://exemplo.com/)
 Marcar = @
 Negrito = **Curso** ou __Curso__
 Tabulação = 4 espaços
 Título = # Curso
 Título Nível 2 = ## Curso
 Título Nível 3 = ### Curso
-
+Título Nível 4 = #### Curso
+Título Nível 5 = ##### Curso
+Título Nível 6 = ###### Curso
+Trecho de Código Linha = acento grave `exemplo`
+Trecho de Código Múltiplas Linahas = ```exemplo``` ou ~~~exemplo~~~
 
 Link :
 
